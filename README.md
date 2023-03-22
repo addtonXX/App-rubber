@@ -1,4 +1,4 @@
-# flutter_application_1
+# App_rubber
 
 A new Flutter project.
 
